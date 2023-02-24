@@ -2,7 +2,15 @@
 Welcome to Mastergive514 Page!
 I make some Applications and Website
 
-# Websites
+# PARTS
+
+- [My Websites](https://mastergive514.github.io/#My-Websites)
+- [My Applications and Virus](https://mastergive514.github.io/#My-Applications-and-Virus)
+- [About Me](https://mastergive514.github.io/#About-Me)
+- [Languages i know](https://mastergive514.github.io/#languages-i-know)
+
+
+## My Websites
 
 [Baymane](https://mastergive514.github.io/Baymane/) Is My Last **Website** i made in 24 hours!
 
@@ -10,7 +18,7 @@ I make some Applications and Website
 
 
 
-# Applications & Virus
+## My Applications and Virus
 
 [Fake Microsoft Explorer](https://github.com/mastergive514/Microsoft-Windows-Explorer-1.1) Is My FAKE microsoft explorer! lol
 
@@ -19,7 +27,7 @@ I make some Applications and Website
 
 
 
-#**ABOUT ME**
+## About Me
 
 # Who you?
 
