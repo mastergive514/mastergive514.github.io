@@ -1,65 +1,30 @@
-# mastergive514.github.io
-Welcome to Mastergive514 Page!
-I make some Applications and Website
+<h1 align="center">Hi 👋, I'm Albendo</h1>
+<h3 align="center">A passionate frontend developer from Morocco</h3>
 
-# PARTS
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mastergive514&label=Profile%20views&color=0e75b6&style=flat" alt="mastergive514" /> </p>
 
-- [My Websites](https://mastergive514.github.io/#My-Websites)
-- [My Applications and Virus](https://mastergive514.github.io/#My-Applications-and-Virus)
-- [About Me](https://mastergive514.github.io/#About-Me)
-- [Languages i know](https://mastergive514.github.io/#languages-i-know)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mastergive514" alt="mastergive514" /></a> </p>
 
+- 🔭 I’m currently working on **That website**
 
-## My Websites
+- 🌱 I’m currently learning **Website Courses**
 
-[Baymane](https://mastergive514.github.io/Baymane/) Is My Last **Website** i made in 24 hours!
+- 👯 I’m looking to collaborate on **MineCube (Not Released)**
 
-[Microsoft.net](https://mastergive514.github.io/Microsoft.net/) Is My FAN-MADE Microsoft Website from 2000 🤣 🤣
+- 📫 How to reach me **aymanbouraaman70@hotmail.com**
 
+- ⚡ Fun fact **Do not use internet explorer**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.youtube.com/c/albendo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="albendo" height="30" width="40" /></a>
+</p>
 
-## My Applications and Virus
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-[Fake Microsoft Explorer](https://github.com/mastergive514/Microsoft-Windows-Explorer-1.1) Is My FAKE microsoft explorer! lol
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mastergive514&show_icons=true&locale=en&layout=compact" alt="mastergive514" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mastergive514&show_icons=true&locale=en" alt="mastergive514" /></p>
 
-
-
-
-
-## About Me
-
-# Who you?
-
-### Hi im Albondows.
-
-
-# What do i do?
-
-### I make plugin's and extra commands for a sandbox game called [**Classicube**](https://ClassiCube.net) as of right now i only know how to code in **C#**, but i am learning **Python** and will learn other languages in the future.
-
-
-
-
-
-**You also have the option to make/run your own server thats where mine and many other people's plugins/commands come in. Server owners can freely use these public commands and plugins on there server to make it a better server then it already is!.**
-
-Other users that make plugins/commands for ClassiCube.
-
-[Venk](https://github.com/derekdinan/classicube-stuff), [Goodly](https://github.com/NotAwesome2), and [UnknownShadows200](https://github.com/ClassiCube/MCGalaxy-Plugins).
-
-
-
-## Languages i know
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Albondows&layout=compact&theme=dracula)](https://github.com/Albondows)
-
-[![C#](https://raw.githubusercontent.com/Albondows/Albondows/main/C%23.png)](https://github.com/Albondows)
-
-## My Trophies.
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Albondows&theme=dracula)](https://github.com/Albondows)
-
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mastergive514&" alt="mastergive514" /></p>
